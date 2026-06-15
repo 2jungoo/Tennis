@@ -1,9 +1,9 @@
 import { useState } from 'react'
-import heroImage from './assets/hero-creativity.png'
-import team1 from './assets/team-1.png'
-import team2 from './assets/team-2.png'
-import team3 from './assets/team-3.png'
-import team4 from './assets/team-4.png'
+import heroImage from './assets/hero-creativity.jpg'
+import team1 from './assets/team-1.jpg'
+import team2 from './assets/team-2.jpg'
+import team3 from './assets/team-3.jpg'
+import team4 from './assets/team-4.jpg'
 import { ArrowIcon, CalendarIcon, LocationIcon } from './components/icons.jsx'
 
 const NAV = ['소개', '멤버', '추억', '함께하기']
